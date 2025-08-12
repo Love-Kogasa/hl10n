@@ -1,6 +1,6 @@
 {
   "name": "hl10n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Complete your l10n in the same HTML.",
   "main": "l10n.js",
   "scripts": {

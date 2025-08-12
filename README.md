@@ -1,4 +1,4 @@
-## HL10N(only 402b)
+## HL10N(only 423b)
 [中文文档](https://github.com/Love-Kogasa/hl10n)  
 Complete your l10n in the same HTML  
 **This library is only suitable for small projects. For complex requirements, please use other l10n or i18n libraries**
